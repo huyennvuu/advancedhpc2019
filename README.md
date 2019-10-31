@@ -12,10 +12,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: MyName
+* Name: Huyen Vu
 * Key:
-
-```
-ssh-rsa ThisIsasAMpleKey
-```
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDReOCQtFZdguLLnErfwvM1b3EoIE/cjfW3OVp/V5lXoupBVxFcTwuFNy/IZWjx08XwGH4gfXBOM9znSz/GkNbihK3oaKE2O/ip6UTlaIt2SJ1lhUgmqgwpJkRNtMqgVo6eXtGgY0CyoID0FOmB0XU1SOyKk+crWG3UZRbMFRg2qb3TLzUj9cKK2ur5/8m46w5Qx+CfG3DVMMR8wUkgkADFWrrSPQQeClQn+H/t9Um5ZfDFsyPHygtmxEUWXFxx6KRpmfaPc65zkJ1O3I1mz/wFU3kTQja5NC69qCtAgB0SORPmgXAUQoKu0TMFzFUCQvGDw8XyoEQ//SLpxAmyT0MV huyennvuu@huyennvuu-HP-ENVY-Laptop-13-ah0xxx
 
